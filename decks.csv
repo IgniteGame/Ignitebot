@@ -1,0 +1,48 @@
+Card Number,Name,Type,Cost,Attack,Health,Ignite Rolls,Text,Deck
+1,Sparkbot,Bot,1,2,2,"2,3,4",Summon: IGNITE,Ignite
+2,Blastbot,Bot,2,3,3,"3,4,5",Summon: IGNITE,Ignite
+3,Infernobot,Bot,3,4,4,"4,5,6",Summon: IGNITE,Ignite
+4,Curious Bot,Bot,1,2,2,"2,3,4",Death: IGNITE,Ignite
+5,Unstable Bot,Bot,2,3,3,"3,4,5",Death: IGNITE,Ignite
+6,Explosive Bot,Bot,3,4,4,"4,5,6",Death: IGNITE,Ignite
+7,Reconstructor,-,2,3,3,-,Your Bots trigger their Summon abilities an additional time,Ignite
+8,Deconstructor,-,2,3,3,-,Your Bots trigger their Death abilities an additional time,Ignite
+9,Botlord,-,2,3,3,-,Your adjacent Bots have +2 Attack,Ignite
+10,Detonation Master,-,3,3,3,-,You choose where your IGNITE abilities hit,Ignite
+11,Flamebringer,-,4,4,4,-,"Summon: DESTROY a minion, then its controller draws 2 cards",Ignite
+12,Molten Maniac,-,4,2,2,-,Summon: Deal damage to all other minons equal to their slot numbers,Ignite
+13,Repairbot,Bot,2,2,2,"0,2,4","Summon: Remove all damage from all Bots, then IGNITE",Ignite
+14,Scrapbot,Bot,1,1,1,"1,2,3","Summon: Move a minion from your Scrapheap on top of your Forge, then IGNITE",Ignite
+15,Demolition Bot,Bot,4,4,4,"3,5,7",Death: IGNITE all of your Bots (including this),Ignite
+,,,,,,,,
+16,Emberbot,Bot,1,1,1,"1,2,3",Scrapmetal. Death: IGNITE,Scrapmetal
+17,Moltenbot,Bot,2,2,2,"2,3,4",Scrapmetal. Death: IGNITE,Scrapmetal
+18,Pyrobot,Bot,3,3,3,"3,4,5",Scrapmetal. Death: IGNITE,Scrapmetal
+19,Lavabomb,Bot,1,1,1,"1,2,3","Scrapmetal. After another friendly Bot is Destroyed, IGNITE",Scrapmetal
+20,Fireplume Bot,Bot,2,2,3,"3,4,5",Scrapmetal. End of Turn: You may spend 2 Scraptokens to IGNITE,Scrapmetal
+21,Walking Scrapheap,Bot,3,3,1,"1,3,5",Scrapmetal x2. Death: IGNITE,Scrapmetal
+22,Incinerator,Bot,3,5,4,"2,3,4","Scrapmetal. Death: IGNITE, then DESTROY all Bots",Scrapmetal
+23,Lavaforged Assembler,Bot,3,2,4,"2,2,4","Scrapmetal. After you Summon another Bot, gain 1 Scraptoken, then IGNITE",Scrapmetal
+24,Erruptionist,-,1,1,2,-,"After you Summon a Bot from your Scrapheap, IGNITE it",Scrapmetal
+25,Cindersmith,-,2,2,4,-,"After an adjacent Bot Ignites, gain 1 Scraptoken",Scrapmetal
+26,Volcanic Ritualist,-,2,2,5,-,Death: Deal 1 damage to a minion for each Scraptoken you have,Scrapmetal
+27,Scraptinkerer,-,2,3,3,-,End of Turn: Gain 1 Scraptoken,Scrapmetal
+28,Magmatic Monstrosity,-,3,3,5,-,"After you Summmon a Bot from your Scrapheap, deal 2 damage to all minions",Scrapmetal
+29,Ashborn Shaman,-,4,4,4,-,Summon: Trigger adjacent Death effects,Scrapmetal
+30,Igneous Elemental,-,4,5,3,-,Summon: DESTROY a friendly Bot to DESTROY an enemy minion,Scrapmetal
+,,-,,,,-,,
+,Loose Page,Bot-Tome,1,2,1,"0,1,2","Death: Draw a card, then ARCANA IGNITE",Arcana
+,Lesser Tome,Bot-Tome,1,2,2,"1,2,3",Death: ARCANA IGNITE,Arcana
+,Greater Tome,Bot-Tome,2,3,3,"1,2,3","Death: Draw a card, then ARCANA IGNITE x2",Arcana
+,Arcane Defender,Bot-Tome,2,2,6,"2,3,4",Death: ARCANA IGNITE,Arcana
+,Conjuring Tome,Bot-Tome,2,2,2,"1,2,3","After you Summon another Tome, gain 1 Energy, then ARCANA IGNITE",Arcana
+,Forbidden Tome,Bot-Tome,3,3,3,"1,1,5","Death: Draw 5 cards, then put 3 cards from your hand on top of your Forge, then ARCANA IGNITE",Arcana
+,Illusionist Tome,Bot-Tome,2,4,2,"2,2,4",Summon:  ARCANA IGNITE all friendly Tomes (including this),Arcana
+,Spellbender,-,1,3,1,-,Friendly Arcana Ignite effects always hit Forge,Arcana
+,Spellbinder,-,1,1,3,-,Summon: Move a Tome from your Scrapheap to your Hand,Arcana
+,Mad Wizard,-,2,3,2,-,"After any minion Ignites, target player draws a card",Arcana
+,Pain Seer,-,2,2,3,-,"After you draw a card, deal 1 damage",Arcana
+,Blood Mage,-,2,4,4,-,Summon: DESTROY a minion and replace it with this. This minion's opponent draws twice as many cards,Arcana
+,Mystic Artificer,-,3,3,6,-,"If you would draw a card, instead draw a random card from your Scrapheap",Arcana
+,Spellbook Scryer,-,4,5,4,-,Summon: Target player draws cards equal to half the number of cards in their hand (round up),Arcana
+,Tomelord,-,4,4,5,-,Adjacent Tomes cost 2 less Energy,Arcana

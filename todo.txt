@@ -1,0 +1,2 @@
+remove whitespace between "data:" and cardname
+"list:DECKNAME" for entire deck
